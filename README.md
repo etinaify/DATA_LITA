@@ -7,4 +7,7 @@ Data analysis solutions to help businesses make projections and informed financi
 
 ![image](https://github.com/user-attachments/assets/025ece30-53b4-4bda-a8cb-b4601e2e1d50)
 
+![image](https://github.com/user-attachments/assets/16bc6507-b7a4-4a30-8ee7-ff638b38f540)
+
+
 
